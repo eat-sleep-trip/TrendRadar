@@ -74,9 +74,9 @@ sora
 多模态大模型
 vl
 
-qwen
+阿里
 千问
-qwen3
+qwen
 
 智谱
 清华智谱
