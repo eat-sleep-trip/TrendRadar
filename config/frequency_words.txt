@@ -70,6 +70,18 @@ chatgpt
 openai
 sora
 
+大模型
+多模态大模型
+vl
+
+qwen
+千问
+qwen3
+
+智谱
+清华智谱
+GLM
+
 claude
 Anthropic
 
